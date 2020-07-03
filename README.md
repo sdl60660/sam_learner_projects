@@ -6,8 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects
 
-[![Philadelphia Police Complaints](images/philly_police_complaints_preview.png =250x)](https://philly-police-complaints.herokuapp.com/)
-[![NBA Birthplaces](images/nba_origins_preview.png =250x)](https://nba-origins.herokuapp.com/)
+<a href="https://philly-police-complaints.herokuapp.com/"><img src="images/philly_police_complaints_preview.png" alt="Philadelphia Police Complaints" width="300px" height="300px" /></a>
+<a href="https://nba-origins.herokuapp.com/"><img src="images/nba_origins_preview.png" alt="NBA Birthplaces"  width="300px" height="300px" /></a>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
