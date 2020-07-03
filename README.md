@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects
 
-![Philadelphia Police Complaints](https://sdl60660.github.io/images.philly_police_complaints_preview.png)
-![NBA Birthplaces](https://sdl60660.github.io/images.nba_origins_preview.png)
+[![Philadelphia Police Complaints](https://sdl60660.github.io/images.philly_police_complaints_preview.png)](https://philly-police-complaints.herokuapp.com/)
+[![NBA Birthplaces](https://sdl60660.github.io/images.nba_origins_preview.png)](https://nba-origins.herokuapp.com/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
