@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/sdl60660/sam_learner_proje
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
+
+![Philadelphia Police Complaints](https://sdl60660.github.io/images.philly_police_complaints_preview.png)
+![NBA Birthplaces](https://sdl60660.github.io/images.nba_origins_preview.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
