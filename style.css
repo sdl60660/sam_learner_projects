@@ -4,6 +4,17 @@ body {
 	background-color: #f9f9f9;
 }
 
+.project-image-wrapper {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.caption {
+	display: block;
+	color: black;
+}
+
 .project-preview {
 	border: 1px solid black;
 	margin: 10px;
@@ -12,11 +23,8 @@ body {
 	opacity: 0.8;
 }
 
-.project-preview:hover {
-	opacity: 1.0;
-}
-
 #nba-origins {
 	padding-left: 10px;
 	background-color: white;
 }
+
