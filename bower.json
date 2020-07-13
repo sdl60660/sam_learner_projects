@@ -1,0 +1,17 @@
+{
+  "name": "projects_site",
+  "homepage": "https://github.com/sdl60660/sam_learner_projects",
+  "authors": [
+    "sdl60660 <learnersd@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

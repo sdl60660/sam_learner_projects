@@ -9,5 +9,14 @@ body {
 	margin: 10px;
 	padding: 10px;
 	border-radius: 10px;
+	opacity: 0.8;
+}
 
+.project-preview:hover {
+	opacity: 1.0;
+}
+
+#nba-origins {
+	padding-left: 10px;
+	background-color: white;
 }
