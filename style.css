@@ -5,6 +5,8 @@ body {
 
 	margin-left: 30px;
 	margin-top: 30px;
+
+	min-height: 100vh;
 }
 
 .project-image-wrapper {
@@ -31,3 +33,21 @@ body {
 	background-color: white;
 }
 
+.icon-img {
+	height: 50px;
+	width: 50px;
+	
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 2px;
+}
+
+.spacer {
+	height: 50px;
+}
+
+#contact-info {
+	position: absolute;
+	bottom: 5%;
+	/*left: 50%;*/
+}
