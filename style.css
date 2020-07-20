@@ -43,16 +43,12 @@ body {
 
 }
 
-.icon-img:hover{
-  background: transparent;
-}
-
 .spacer {
 	height: 50px;
 }
 
 #contact-info {
-	position: absolute;
+	position: fixed;
 	bottom: 5%;
 	/*left: 50%;*/
 }
