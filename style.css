@@ -75,9 +75,13 @@ body {
 	white-space: nowrap;
 }
 
+#resume-link-wrapper {
+	margin-top: -80px;
+	margin-bottom: 100px;
+}
 
 @media only screen and (max-width: 800px) {
-	#project-container { 
+	#project-container, #resume-link-wrapper { 
 		margin-left: 30px;
 	}
 }
