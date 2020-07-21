@@ -76,12 +76,14 @@ body {
 }
 
 #resume-link-wrapper {
-	margin-top: -80px;
-	margin-bottom: 100px;
+	/*margin-top: -80px;
+	margin-bottom: 100px;*/
+
+	position: absolute;
 }
 
 @media only screen and (max-width: 800px) {
-	#project-container, #resume-link-wrapper { 
+	#project-container { 
 		margin-left: 30px;
 	}
 }
