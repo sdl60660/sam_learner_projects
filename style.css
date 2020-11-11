@@ -34,7 +34,7 @@ body {
 	opacity: 0.8;
 }
 
-#nba-origins {
+.white-fill {
 	padding-left: 10px;
 	background-color: white;
 }
