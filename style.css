@@ -86,8 +86,29 @@ body {
 	position: absolute;
 }
 
-@media only screen and (max-width: 800px) {
+.row {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	justify-content: center;
+}
+
+#project-header {
+	justify-self: left;
+	padding-left: 40px;
+}
+
+@media only screen and (max-width: 950px) {
 	#project-container { 
 		margin-left: 30px;
 	}
+
+	.row {
+		grid-template-columns: 1fr;
+	}
+
+	#project-header {
+		justify-self: center;
+		padding-left: unset;
+	}
 }
+
