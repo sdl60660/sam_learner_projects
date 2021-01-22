@@ -21,17 +21,24 @@ body {
 	max-width: 320px;
 }
 
-.project-preview {
+.project-preview-image {
 	height: 300px;
 	width: 300px;
-
 	border: 1px solid black;
 	border-radius: 10px;
 	padding: 10px;
 
+	display: grid;
+	align-items: center;
+
 	margin: 10px;
 
 	opacity: 0.8;
+}
+
+.project-preview-image img { 
+	width: 100%;
+	height: auto;
 }
 
 .white-fill {
