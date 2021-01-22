@@ -1,6 +1,7 @@
-$(".project-preview-image")
+
+$(".project__preview-image")
     .on("mouseover", function() {
-        $(".project-preview-image")
+        $(".project__preview-image")
             .css("opacity", 0.5);
 
         $(this)
@@ -8,7 +9,7 @@ $(".project-preview-image")
             .css("transform", "scale(1.05)")
     })
     .on("mouseout", function() {
-        $(".project-preview-image")
+        $(".project__preview-image")
             .css("opacity", 0.8)
             .css("transform", "scale(1.0)")
 

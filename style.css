@@ -7,7 +7,7 @@ body {
 	position: relative;
 }
 
-.project-image-wrapper {
+.project__image-wrapper {
     vertical-align: top;
     display: inline-block;
     text-align: center;
@@ -21,7 +21,7 @@ body {
 	max-width: 320px;
 }
 
-.project-preview-image {
+.project__preview-image {
 	height: 300px;
 	width: 300px;
 	border: 1px solid black;
@@ -36,7 +36,7 @@ body {
 	opacity: 0.8;
 }
 
-.project-preview-image img { 
+.project__preview-image img { 
 	width: 100%;
 	height: auto;
 }
