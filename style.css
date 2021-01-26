@@ -57,7 +57,7 @@ body {
 }
 
 .spacer {
-	height: 50px;
+	height: 5rem;
 }
 
 #project-container {
@@ -69,19 +69,14 @@ body {
 }
 
 #contact-info-wrapper {
-	width: 100%;
-	bottom: 5%;
-	/*left: 50%;*/
+	top: 2%;
+	right: 0;
+	margin-right: 1rem;
 	position: absolute;
-	text-align: center;
 }
 
 #contact-info {
-	background-color: white;
-	border-radius: 15px;
-	border: 1px solid black;
 	padding: 10px;
-
 	display: inline-block;
 	white-space: nowrap;
 }
@@ -113,5 +108,29 @@ body {
 		justify-self: center;
 		padding-left: unset;
 	}
+
+	#contact-info-wrapper {
+		width: 100%;
+		bottom: 5%;
+		right: unset;
+		left: unset;
+		top: unset;
+		/*left: 50%;*/
+		position: absolute;
+		text-align: center;
+	}
+
+	#contact-info {
+		background-color: white;
+		border-radius: 15px;
+		border: 1px solid black;
+		padding: 10px;
+
+		display: inline-block;
+		white-space: nowrap;
+	}
+
+
+
 }
 
